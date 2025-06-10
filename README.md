@@ -1,6 +1,6 @@
-# Modern Google Search Bar 🔍
+# Modern Search Bar 🔍
 
-A sleek and modern search interface with Google integration! Features a beautiful glassmorphism design with smooth animations and transitions. Perfect for web applications requiring an elegant search solution.
+A modern and beautiful search interface with integration with Send Search Path to Google! Featuring a beautiful glass morphism design with smooth animations and transitions, perfect for web applications that require an elegant search solution.
 
 ## 🛠️ Tech Stack
 - 🌐 HTML5
