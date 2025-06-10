@@ -62,8 +62,5 @@ You can customize:
 - 💬 Messages in `index.html`
 - 🔄 Animations in `script.js`
 
-## 👤 Author
-Created by Intouch Charoenphon
-
 ## 📄 License
 This project is licensed under the MIT License.
