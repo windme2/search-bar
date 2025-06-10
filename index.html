@@ -3,21 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Style -->
     <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet">
     <title>Search Bar</title>
 </head>
 <body>
-    <!-- Search Bar -->
-    <div class="search">
-        <input type="text" class="input" placeholder="Search">
-        <button class="btn">
+    <form class="search" id="searchForm" action="https://www.google.com/search" method="get">
+        <input type="text" class="input" name="q" placeholder="Type to search...">
+        <button type="submit" class="btn">
             <i class="fa-solid fa-magnifying-glass"></i>
         </button>
-    </div>
-    <!-- Font Awesome -->
+    </form>
+    <footer class="footer">
+        <p>&copy; 2025 Intouch Charoenphon. All Rights Reserved.</p>
+    </footer>
     <script src="https://kit.fontawesome.com/51b0f01acc.js" crossorigin="anonymous"></script>
-    <!-- Script -->
     <script src="script.js"></script>
 </body>
 </html>
