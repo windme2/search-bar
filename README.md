@@ -9,11 +9,6 @@ A modern and beautiful search interface with integration with Send Search Path t
 - 🎯 Google Search Integration
 - ✨ Glassmorphism Design
 
-## 🚀 Setup
-1. 📥 Clone the repository
-2. 📂 Open `index.html` in your browser
-3. 🔍 Start searching!
-
 ## ⭐ Features
 
 ### 🔍 Search Functionality
