@@ -9,15 +9,6 @@ A modern and beautiful search interface with integration with Send Search Path t
 - 🎯 Google Search Integration
 - ✨ Glassmorphism Design
 
-## 📁 Project Structure
-```
-Search-Bar/
-├── index.html     # Main HTML file
-├── style.css      # Modern styling and animations
-├── script.js      # Core functionality
-└── README.md      # Documentation
-```
-
 ## 🚀 Setup
 1. 📥 Clone the repository
 2. 📂 Open `index.html` in your browser
